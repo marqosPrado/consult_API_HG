@@ -13,4 +13,5 @@ $ cd consult_API_HG
 ```
 ## :key: Configurando o projeto
 Com sua chave em mãos, entre no diretório 'config' e entre no arquivo 'config.py', na função chave substitua o valor da variável 'HG_API_KEY' pela sua chave.
-<img height=100 weight=100 src="https://raw.githubusercontent.com/marqosPrado/assets/main/consult_api/foto1.png?token=GHSAT0AAAAAAB3GHO7WU6POQPP6AHOVEHYCY3ZI3BA">
+# 
+<img height=500 weight=500 src="https://raw.githubusercontent.com/marqosPrado/assets/main/consult_api/foto1.png?token=GHSAT0AAAAAAB3GHO7WU6POQPP6AHOVEHYCY3ZI3BA">
