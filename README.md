@@ -18,4 +18,4 @@ Com sua chave em mãos, entre no diretório 'config' e entre no arquivo 'config.
     
 Nesse mesmo arquivo você pode configurar o tempo de atualização dos dados na variável ATUALIZACAO (valores em segundos):
 # 
-<img height=400 weight=400 src="https://raw.githubusercontent.com/marqosPrado/assets/main/consult_api/foto2.png?token=GHSAT0AAAAAAB3GHO7W4PZF7B5MFAHQCW7MY3ZI73Q">
+<img height=400 weight=400 src="https://github.com/marqosPrado/assets/blob/main/consult_api/foto2.png">
