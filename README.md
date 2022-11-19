@@ -12,6 +12,10 @@ $ git clone https://github.com/marqosPrado/consult_API_HG.git
 $ cd consult_API_HG
 ```
 ## :key: Configurando o projeto
-Com sua chave em mãos, entre no diretório 'config' e entre no arquivo 'config.py', na função chave substitua o valor da variável 'HG_API_KEY' pela sua chave.
+Com sua chave em mãos, entre no diretório 'config' e entre no arquivo 'config.py', na função chave substitua o valor da variável 'HG_API_KEY' pela sua chave:
 # 
-<img height=300 weight=300 src="https://raw.githubusercontent.com/marqosPrado/assets/main/consult_api/foto1.png?token=GHSAT0AAAAAAB3GHO7WU6POQPP6AHOVEHYCY3ZI3BA">
+<img height=400 weight=400 src="https://raw.githubusercontent.com/marqosPrado/assets/main/consult_api/foto1.png?token=GHSAT0AAAAAAB3GHO7WU6POQPP6AHOVEHYCY3ZI3BA">
+# 
+Nesse mesmo arquivo você pode configurar o tempo de atualização dos dados na variável ATUALIZACAO (valores em segundos):
+# 
+<img height=400 weight=400 src="https://raw.githubusercontent.com/marqosPrado/assets/main/consult_api/foto2.png?token=GHSAT0AAAAAAB3GHO7W4PZF7B5MFAHQCW7MY3ZI73Q">
