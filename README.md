@@ -22,4 +22,9 @@ Nesse mesmo arquivo você pode configurar o tempo de atualização dos dados na 
 # Como executar o projeto
 Linux e MacOS - Entre na pasta 'APP/', e execute o código:
 ```
+$ python3 index.py
+```
+Windows:
+```
+$ python index.py
 ```
