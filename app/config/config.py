@@ -1,7 +1,8 @@
+# Tempo de atualização das informações puxadas da API
 ATUALIZACAO = 300
 
-def chave():
-    HG_API_KEY = "7cea6a0c"
+def key():
+    HG_API_KEY = "A_CHAVE VAI_AQUI"
     return HG_API_KEY.join(HG_API_KEY.split())
 
 def color_red():
