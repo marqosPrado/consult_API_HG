@@ -12,7 +12,7 @@ while True:
         os.system("cls")
 
 
-    app = hg_api.Hg_api(config.chave())
+    app = hg_api.Hg_api(config.key())
 
     def menu():
         print("="*50)
